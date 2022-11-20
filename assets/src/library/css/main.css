@@ -1,0 +1,13 @@
+/* Custom logo css*/
+img.custom-logo {
+    height: 60px;
+    width: auto;
+}
+li a{
+    color: #6c757d !important;
+}
+img{
+    width: 100% !important;
+    height: auto;
+    object-fit: cover;
+}
